@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Outlet } from "react-router";
-import Header from "../components/header-footer/header";
+import Header from "../components/header-footer/Header";
 import { ToastContainer } from "react-toastify";
 import { useGetMeQuery } from "../store/features/authApiSlice";
 import { useDispatch, useSelector } from "react-redux";
