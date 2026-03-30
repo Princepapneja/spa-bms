@@ -43,7 +43,7 @@ const dispatch= useDispatch()
       
       <div className="w-full flex max-w-3xl gap-2 justify-between  bg-white rounded-lg shadow-lg p-6">
         <div className="w-1/2">
-            sdsd
+            Login
         </div>
       <div className="grow">
         
